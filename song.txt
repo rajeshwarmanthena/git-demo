@@ -3,3 +3,6 @@ Learning is fun
 Hello all 
 Let's learn git and github
 pull this from git
+
+another lines for git gui
+
