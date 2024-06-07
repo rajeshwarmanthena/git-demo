@@ -3,6 +3,7 @@ Learning is fun
 Hello all 
 Let's learn git and github
 pull this from git
+<<<<<<< HEAD
 
 another lines for git gui
 
@@ -11,3 +12,5 @@ some content
 new line
 
 revert changes
+=======
+>>>>>>> parent of 3f040e0 (added from git Gui)
