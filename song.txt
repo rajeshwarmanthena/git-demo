@@ -6,3 +6,8 @@ pull this from git
 
 another lines for git gui
 
+some content
+
+new line
+
+revert changes
